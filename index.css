@@ -51,6 +51,8 @@ main{
     background-color: hsl(47, 88%, 63%);
     width: min(100px, 30%);
     border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
     
 }
 
@@ -85,8 +87,7 @@ p {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    min-width: 0px;
-    padding: 0px;
+    font-size: 20px;
     font-weight: 900;
 }
 
