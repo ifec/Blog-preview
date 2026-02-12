@@ -113,3 +113,8 @@ p {
     flex-direction: column;
     gap: 24px;
 }
+
+.author-img{
+    height: 55px;
+    width: auto;
+}
